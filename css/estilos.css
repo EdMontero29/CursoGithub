@@ -13,3 +13,13 @@ body
     border: 1px solid;
     margin: 0 auto;
 }
+#cabecera
+{
+    background-color: cadetblue;
+    color: black;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid;
+    margin: 0 auto;
+    box-shadow: 6px 2px 25px 0px rgba(0,0,0,0.75);
+}
