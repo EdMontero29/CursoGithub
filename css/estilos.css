@@ -1,7 +1,11 @@
 body
 {
     text-align: center;
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> cabecera
     font-family: 'arial';
 }
 
