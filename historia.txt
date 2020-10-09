@@ -1,0 +1,2 @@
+Este es el primer archivo de texto
+creador para practicar en git
